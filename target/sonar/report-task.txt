@@ -1,0 +1,6 @@
+projectKey=maven_swirggy
+serverUrl=http://18.234.115.250:9000
+serverVersion=8.9.6.50800
+dashboardUrl=http://18.234.115.250:9000/dashboard?id=maven_swirggy
+ceTaskId=AY1BfcljMoR6ZGlpQ8Et
+ceTaskUrl=http://18.234.115.250:9000/api/ce/task?id=AY1BfcljMoR6ZGlpQ8Et
